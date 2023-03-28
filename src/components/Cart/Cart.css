@@ -1,0 +1,20 @@
+.cart {
+  background-color: rgba(255, 153, 0, 0.3);
+  padding: 23px;
+  position: sticky;
+  top: 0;
+}
+.cart h5 {
+  font-weight: 500;
+  font-size: 25px;
+}
+.cart p {
+  font-weight: 400;
+  font-size: 17px;
+  text-align: left;
+}
+.cart h6 {
+  font-weight: 500;
+  font-size: 21px;
+  text-align: left;
+}
