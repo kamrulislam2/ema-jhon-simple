@@ -1,0 +1,53 @@
+.review-item {
+  width: 571px;
+  height: 107px;
+  border: 1px solid #95a0a7;
+  border-radius: 8px;
+  margin-bottom: 24px;
+  padding: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.review-item img {
+  width: 91px;
+  height: 91px;
+  border-radius: 8px;
+}
+
+.review-item .review-title {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0.0015em;
+}
+.review-item-2nd {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+.review-details p {
+  margin: 4px 0px;
+}
+
+.orange-text {
+  color: #ff9900;
+}
+
+.btn-delete {
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  background-color: rgba(235, 87, 87, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 15px;
+}
+
+.btn-delete .dlt-icon {
+  color: #eb5757;
+  font-size: 24px;
+  text-align: center;
+}
