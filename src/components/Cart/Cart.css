@@ -18,3 +18,15 @@
   font-size: 21px;
   text-align: left;
 }
+
+.btnClear-cart {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 100%;
+  font-size: 16px;
+  border-radius: 4px;
+  background-color: #ff3030;
+  color: #ffffff;
+}

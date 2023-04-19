@@ -24,3 +24,14 @@
 .header a:hover {
   color: orange;
 }
+
+.user,
+.user button {
+  margin-left: 30px;
+}
+.user:hover {
+  color: white;
+}
+.user button:hover {
+  background-color: orange;
+}

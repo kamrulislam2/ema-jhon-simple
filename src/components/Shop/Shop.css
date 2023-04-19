@@ -14,3 +14,12 @@
 .cart-container {
   text-align: center;
 }
+
+.btn-review-order {
+  margin-top: 10px;
+  width: 100%;
+  font-size: 16px;
+  border-radius: 4px;
+  background-color: #f3a006;
+  color: #ffffff;
+}
